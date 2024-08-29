@@ -1,4 +1,4 @@
-# THIS IS A MERN STACK FOOD DELIVERYY APP
+# THIS IS A MERN STACK FOOD DELIVERY APP
 
 # DEPLOYED LINK ::
 https://food-delivery-frontend-smt4.onrender.com/
